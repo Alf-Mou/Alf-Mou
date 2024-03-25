@@ -13,8 +13,8 @@ My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.
 
 ## Languages and Technologies
 (JavaScript | Python | Java | HTML | CSS )
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alf-Mou&theme=blue-white" alt="Kipper top languages">
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alf-Mou&theme=blue-white" alt="Kipper top languages">
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=45px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=45px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width=45px//> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=45px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=45px/>
@@ -24,4 +24,5 @@ My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.
 
 ### Bonus
   (AutoCAD | Revit | SketchUp)
-
+  
+  <img src="icons/icon_autocad.png" width=65px/>   <img src="icons/icon_revit.png" width=40px />   <img src="icons/sketchup_icon.png" width=55px/>
