@@ -25,4 +25,4 @@ My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.
 ### Bonus
   (AutoCAD | Revit | SketchUp)
   
-  <img src="icons/icon_autocad.png" width=65px/>   <img src="icons/icon_revit.png" width=40px />   <img src="icons/sketchup_icon.png" width=55px/>
+  <img src="icons/Autocad_icon.png" width=85px/>   <img src="icons/icon_revit.png" width=40px />   <img src="icons/sketchup_icon.png" width=55px/>
