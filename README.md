@@ -2,26 +2,32 @@
 
 ## About Me
 
-My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.unit.br/). I'm on a mission to improve myself every day as a developer, with interests in both front-end and back-end development.
+My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.unit.br/).
 
-- 🌱 Currently, I'm learning about web development and honing my skills in HTML, CSS, JavaScript, Python, and related technologies.
+- 🌍 Born in São Luiz, raised in Aracaju.
+- 💻 Currently, I'm learning about web development and honing my skills in HTML, CSS, JavaScript, Python, and related technologies.
 - 🎓 I hold a degree in Architecture and Urbanism.
-- 🛠️ I enjoy working on woodworking projects.
-- ☕ I'm a coffee enthusiast and believe it's the best way to start the day!
+- 🛠️ I design woodworking projects.
+- 🎮 I'm a huge Pokémon fan. (I can almost name them all, hehe)
 
 
 ## Languages and Technologies
-(JavaScript | Python | Java | HTML | CSS )
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alf-Mou&theme=blue-white" alt="Kipper top languages">
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=45px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=45px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width=45px//> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=45px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=45px/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-
+<div>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30px">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30px">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30px">
+</div>
 
 ### Bonus
-  (SketchUp | Revit | AutoCad)
+(SketchUp | Revit | AutoCad)
+<div>
+<img src="icons/sketchup_icon.png" width=55px/>
+<img src="icons/icon_revit.png" width=40px />
+<img src="icons/Autocad_icon.png" width=45px/>  
+</div>
   
-   <img src="icons/sketchup_icon.png" width=55px/> <img src="icons/icon_revit.png" width=40px /> <img src="icons/Autocad_icon.png" width=45px/>
