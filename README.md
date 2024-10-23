@@ -5,9 +5,9 @@
 My name is Alfredo Moura. I am a Computer Science student at [UNIT](https://www.unit.br/).
 
 - 🌍 Born in São Luiz, raised in Aracaju.
-- 💻 Currently, I'm learning about web development and honing my skills in HTML, CSS, JavaScript, Python, and related technologies.
+- 🎓 Currently, studying computer science at UNIT.
 - 🎓 I hold a degree in Architecture and Urbanism.
-- 🛠️ I design woodworking projects.
+- 💻 Working at SergipeTec.
 - 🎮 I'm a huge Pokémon fan. (I can almost name them all, hehe)
 
 
